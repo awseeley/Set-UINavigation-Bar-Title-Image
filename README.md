@@ -5,7 +5,7 @@ Source code for setting the title as an image in the UINavigation Bar using Swif
 
 Tutorial: 
 
-
+http://www.seemuapps.com/tutorial-set-uinavigation-bar-title-image
 
 Check out our Website: http://www.seemuapps.com
 
